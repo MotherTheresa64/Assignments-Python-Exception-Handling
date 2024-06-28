@@ -12,4 +12,4 @@ def weather_app():
 # Task 4: Thank the user        
     finally:
         print("Thanks for using my application!")
-weather_app()
+weather_app() 
